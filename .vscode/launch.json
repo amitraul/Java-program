@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ANJALI",
+            "request": "launch",
+            "mainClass": "ANJALI",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Amit",
+            "request": "launch",
+            "mainClass": "Amit",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arusi",
+            "request": "launch",
+            "mainClass": "Arusi",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Durga",
+            "request": "launch",
+            "mainClass": "Durga",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_1",
+            "request": "launch",
+            "mainClass": "Example_1",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manisha",
+            "request": "launch",
+            "mainClass": "Manisha",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nira",
+            "request": "launch",
+            "mainClass": "Nira",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintStatement",
+            "request": "launch",
+            "mainClass": "PrintStatement",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rajesh",
+            "request": "launch",
+            "mainClass": "Rajesh",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sagar",
+            "request": "launch",
+            "mainClass": "Sagar",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch example_2",
+            "request": "launch",
+            "mainClass": "example_2",
+            "projectName": "Java program_d039255e"
+        }
+    ]
+}
