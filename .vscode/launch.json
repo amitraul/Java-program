@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stream",
+            "request": "launch",
+            "mainClass": "Stream",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Check",
+            "request": "launch",
+            "mainClass": "Check",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Asur",
+            "request": "launch",
+            "mainClass": "Asur",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrongnumber",
+            "request": "launch",
+            "mainClass": "Armstrongnumber",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function1",
+            "request": "launch",
+            "mainClass": "Function1",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion1",
+            "request": "launch",
+            "mainClass": "Recursion1",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Simple",
+            "request": "launch",
+            "mainClass": "Simple",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignmentupgrad2",
+            "request": "launch",
+            "mainClass": "Assignmentupgrad2",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignmentupgrad1",
+            "request": "launch",
+            "mainClass": "Assignmentupgrad1",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Source",
+            "request": "launch",
+            "mainClass": "Source",
+            "projectName": "Java program_d039255e"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
